@@ -1,1 +1,1 @@
-# React + Node Full Stack project boilerplate
+# Node Server template
